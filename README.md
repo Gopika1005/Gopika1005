@@ -524,3 +524,158 @@ My goal is to become a Software Engineer who builds scalable, efficient, and inn
 ---
 
 # 📬 Let's Connect
+# 📬 Let's Connect
+
+<div align="center">
+
+<i>I'm always open to internship opportunities, collaborations, innovative projects, and meaningful conversations about technology.</i>
+
+<br><br>
+
+<table>
+
+<tr>
+
+<td align="center" width="220">
+
+### 🌐 Portfolio
+
+Explore my work
+
+<br>
+
+<a href="YOUR_PORTFOLIO_LINK">
+
+**🔗 Visit Portfolio →**
+
+</a>
+
+</td>
+
+<td align="center" width="220">
+
+### 💼 LinkedIn
+
+Let's connect professionally
+
+<br>
+
+<a href="YOUR_LINKEDIN_LINK">
+
+**🔗 Connect on LinkedIn →**
+
+</a>
+
+</td>
+
+<td align="center" width="220">
+
+### 💻 GitHub
+
+View my repositories
+
+<br>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+
+**🔗 GitHub Profile →**
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🧩 LeetCode
+
+Improving problem-solving every day
+
+<br>
+
+<a href="YOUR_LEETCODE_LINK">
+
+**🔗 LeetCode Profile →**
+
+</a>
+
+</td>
+
+<td align="center">
+
+### 📧 Email
+
+Let's discuss opportunities
+
+<br>
+
+<a href="mailto:gopikaraman2288@gmail.com">
+
+**📨 Send Email →**
+
+</a>
+
+</td>
+
+<td align="center">
+
+### 📍 Location
+
+Hosur, Tamil Nadu 🇮🇳
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🤝 Open To
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software_Engineering_Internships-020617?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full_Stack_Development-0B1120?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-1E3A8A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-Contributions-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Project_Collaborations-3B82F6?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
+
+# 💙 Quote I Live By
+
+<div align="center">
+
+### *"Success is built one line of code, one challenge, and one lesson at a time."*
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 💙 Thank you for visiting my GitHub Profile!
+
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=020617"/>
+
+</div>
