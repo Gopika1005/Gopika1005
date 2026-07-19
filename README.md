@@ -151,3 +151,158 @@ I enjoy designing and developing scalable web applications, exploring emerging A
 ---
 
 # 🚀 Featured Projects
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📚 Smart Exam Preparation Dashboard
+
+**Student Productivity & Learning Platform**
+
+A web-based dashboard designed to help students organize study materials, monitor academic progress, manage daily tasks, create revision schedules, and receive timely reminders through an intuitive interface.
+
+### ✨ Key Features
+
+✔️ Student Login & Registration
+
+✔️ Study Material Management
+
+✔️ Smart Revision Planner
+
+✔️ Progress Tracking
+
+✔️ Task Management
+
+✔️ Reminder System
+
+✔️ Responsive Dashboard
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Bootstrap-020617?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-1E3A8A?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XAMPP-0B1120?style=for-the-badge&logo=xampp&logoColor=white"/>
+
+<br><br>
+
+<a href="YOUR_SMART_EXAM_REPOSITORY">
+
+<img src="https://img.shields.io/badge/Repository-020617?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🤖 Gemini Compliance
+
+**AI-Powered Compliance Assistant**
+
+An intelligent compliance platform powered by the Google Gemini API that analyzes regulations, provides compliance recommendations, generates policy guidance, and simplifies adherence to legal frameworks.
+
+### ✨ Key Features
+
+✔️ AI Regulation Analysis
+
+✔️ Compliance Recommendations
+
+✔️ Policy Generation
+
+✔️ Google Gemini Integration
+
+✔️ Interactive User Interface
+
+✔️ Fast AI Responses
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Google_Gemini_API-1E3A8A?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-020617?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML-0B1120?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-1E3A8A?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<br><br>
+
+<a href="YOUR_GEMINI_REPOSITORY">
+
+<img src="https://img.shields.io/badge/Repository-020617?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+## 🌐 Personal Portfolio
+
+A modern, responsive portfolio website showcasing my projects, technical skills, certifications, internship experience, and achievements with a clean, professional design focused on user experience.
+
+### 🚀 Highlights
+
+✔️ Fully Responsive Design
+
+✔️ Interactive Animations
+
+✔️ Professional UI/UX
+
+✔️ Downloadable Resume
+
+✔️ Contact Form
+
+✔️ Project Showcase
+
+✔️ GitHub Integration
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript"/>
+
+<br><br>
+
+<a href="YOUR_PORTFOLIO_LINK">
+
+<img src="https://img.shields.io/badge/🌐_Live_Demo-020617?style=for-the-badge"/>
+
+</a>
+
+<a href="YOUR_PORTFOLIO_REPOSITORY">
+
+<img src="https://img.shields.io/badge/Repository-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 💼 Experience
