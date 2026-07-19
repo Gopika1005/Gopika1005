@@ -306,3 +306,95 @@ A modern, responsive portfolio website showcasing my projects, technical skills,
 ---
 
 # 💼 Experience
+# 💼 Experience
+
+<div align="center">
+
+| 💼 Role | 🏢 Company | 📅 Duration |
+|:--------|:-----------|:-----------:|
+| **Web Development Intern** | **Sisesoft IT Solution, Hosur** | **June 2025 – July 2025** |
+
+</div>
+
+### 🚀 Internship Highlights
+
+- 🌐 Developed responsive web pages using **HTML, CSS, and JavaScript**.
+- 🎨 Designed user-friendly interfaces to enhance the overall user experience.
+- ⚡ Implemented form validation and dynamic content rendering.
+- 🛠️ Collaborated with the development team to debug and test web applications.
+- 🚀 Assisted in deployment and gained practical exposure to modern web development workflows.
+- 💡 Improved problem-solving and frontend development skills by working on real-world projects.
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+| Qualification | Institution | Score |
+|:-------------|:------------|:-----:|
+| **B.E. Computer Science & Engineering** | **Paavai Engineering College, Namakkal** | **CGPA: 8.79 / 10** |
+| **Higher Secondary (HSC)** | **Sri Vijay Vidyalaya MHSS, Hosur** | **88%** |
+| **Secondary School (SSLC)** | **Sri Vijay Vidyalaya MHSS, Hosur** | **Completed Successfully** |
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Web_Development_Intern-020617?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full_Stack_Developer-0B1120?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Enthusiast-1E3A8A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem_Solver-2563EB?style=for-the-badge"/>
+
+</div>
+
+### 🌟 Highlights
+
+- 💻 Successfully completed a **Web Development Internship** at **Sisesoft IT Solution**.
+- 🚀 Developed multiple academic and AI-based projects using modern technologies.
+- 🤖 Built an **AI-powered Gemini Compliance Assistant** using **Google Gemini API**.
+- 📚 Developed a **Smart Exam Preparation Dashboard** to improve student productivity.
+- 🌱 Continuously learning **Full Stack Development**, **Artificial Intelligence**, and **Java DSA**.
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Full_Stack_Development-020617?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-1E3A8A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-0B1120?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git_&_GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+### 📖 Completed Learning
+
+- ☕ Java Programming
+- 🐍 Python Programming
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics (Basics)
+- 🛠️ Git & GitHub
+- 💻 Modern Web Technologies
+
+---
+
+# 📊 GitHub Analytics
