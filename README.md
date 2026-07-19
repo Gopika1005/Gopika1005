@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=020617&text=Gopika%20Raman&fontColor=F8FAFC&fontSize=44&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=1D4ED8&text=Gopika%20Raman&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1500&color=60A5FA&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Technology+that+Creates+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=60A5FA&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Technology+that+Creates+Impact"/>
 
 <br><br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-1D4ED8?style=for-the-badge"/>
 </a>
 
 <a href="YOUR_LEETCODE_LINK">
@@ -30,18 +30,18 @@
 
 # 👋 Hi, I'm Gopika Raman
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-I'm a **Computer Science Engineering student** passionate about **Full Stack Development** and **Artificial Intelligence**. I enjoy building scalable web applications, exploring modern technologies, and solving real-world problems through software engineering.
+I'm a **Computer Science Engineering student** passionate about **Full Stack Development** and **Artificial Intelligence**. I enjoy developing scalable web applications, exploring modern technologies, and solving real-world problems through innovative software solutions.
 
-Currently, I'm enhancing my skills in **Java, Data Structures & Algorithms, React.js, Node.js, and AI technologies** while developing innovative projects that strengthen my problem-solving and development expertise.
+With hands-on experience in **Java, Python, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and AI technologies**, I'm continuously improving my skills while building impactful projects and preparing for a career in Software Engineering.
 
 ### 🌱 Currently
 
-- 🚀 Mastering **Java DSA**
-- ⚛️ Building projects using **React.js & Node.js**
-- 🤖 Exploring **Artificial Intelligence & Google Gemini**
-- 💼 Preparing for **Software Engineering Internships (2027)**
+- 🚀 Mastering **Java Data Structures & Algorithms**
+- ⚛️ Developing projects with **React.js & Node.js**
+- 🤖 Exploring **Artificial Intelligence & Google Gemini API**
+- 💼 Preparing for **2027 Software Engineering Internships**
 
 <br>
 
@@ -57,60 +57,53 @@ Currently, I'm enhancing my skills in **Java, Data Structures & Algorithms, Reac
 
 | 📈 CGPA | 📍 Location |
 |:-------:|:-----------:|
-| **8.79** | Hosur, Tamil Nadu |
+| **8.79** | Hosur, Tamil Nadu, India |
 
-| 🚀 Goal | ❤️ Interests |
-|:--------:|:------------:|
+| 🚀 Career Goal | ❤️ Interests |
+|:--------------:|:------------:|
 | Software Engineer | AI • Full Stack • Java |
 
 </div>
+
+<br>
 
 ---
 
 # ⚡ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
+<img src="https://skillicons.dev/icons?i=java"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=python"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=c"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=javascript"/>
 
 </p>
 
 ---
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
+<img src="https://skillicons.dev/icons?i=html"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=react"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
 
 </p>
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=express"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=php"/>
 
 </p>
@@ -119,40 +112,38 @@ Currently, I'm enhancing my skills in **Java, Data Structures & Algorithms, Reac
 
 ### 🗄️ Database
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
 ---
 
-### 🤖 Artificial Intelligence
+### 🤖 AI & Data Analytics
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-1D4ED8?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1E40AF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Google%20Gemini-2563EB?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 </p>
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Tools & Technologies
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=github"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=figma"/>
 
 <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
