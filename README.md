@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=1D4ED8&text=Gopika%20Raman&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=020617&text=Gopika%20Raman&fontColor=ffffff&fontSize=44&fontAlignY=38&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=60A5FA&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Technology+that+Creates+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1500&color=93C5FD&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Technology+that+Creates+Impact"/>
 
 <br><br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-020617?style=for-the-badge"/>
 </a>
 
 <a href="YOUR_LEETCODE_LINK">
@@ -30,18 +30,18 @@
 
 # 👋 Hi, I'm Gopika Raman
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-I'm a **Computer Science Engineering student** passionate about **Full Stack Development** and **Artificial Intelligence**. I enjoy developing scalable web applications, exploring modern technologies, and solving real-world problems through innovative software solutions.
+I'm a **Computer Science Engineering student** passionate about **Full Stack Development** and **Artificial Intelligence**.
 
-With hands-on experience in **Java, Python, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and AI technologies**, I'm continuously improving my skills while building impactful projects and preparing for a career in Software Engineering.
+I enjoy designing and developing scalable web applications, exploring emerging AI technologies, and solving real-world challenges through innovative software solutions. My goal is to become a skilled Software Engineer by continuously learning modern technologies and building impactful projects.
 
 ### 🌱 Currently
 
 - 🚀 Mastering **Java Data Structures & Algorithms**
-- ⚛️ Developing projects with **React.js & Node.js**
-- 🤖 Exploring **Artificial Intelligence & Google Gemini API**
-- 💼 Preparing for **2027 Software Engineering Internships**
+- ⚛️ Building applications using **React.js & Node.js**
+- 🤖 Exploring **Google Gemini AI**
+- 💼 Preparing for **Software Engineering Internships (2027)**
 
 <br>
 
@@ -53,11 +53,11 @@ With hands-on experience in **Java, Python, JavaScript, React.js, Node.js, Expre
 
 | 🎓 Education | 💼 Experience |
 |:------------:|:-------------:|
-| Final Year B.E. Computer Science Engineering | Web Development Intern |
+| Final Year B.E Computer Science Engineering | Web Development Intern |
 
 | 📈 CGPA | 📍 Location |
 |:-------:|:-----------:|
-| **8.79** | Hosur, Tamil Nadu, India |
+| **8.79** | Hosur, Tamil Nadu 🇮🇳 |
 
 | 🚀 Career Goal | ❤️ Interests |
 |:--------------:|:------------:|
@@ -65,15 +65,13 @@ With hands-on experience in **Java, Python, JavaScript, React.js, Node.js, Expre
 
 </div>
 
-<br>
-
 ---
 
 # ⚡ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=java"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=python"/>&nbsp;
@@ -85,9 +83,9 @@ With hands-on experience in **Java, Python, JavaScript, React.js, Node.js, Expre
 
 ---
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=html"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=css"/>&nbsp;
@@ -98,9 +96,9 @@ With hands-on experience in **Java, Python, JavaScript, React.js, Node.js, Expre
 
 ---
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=express"/>&nbsp;
@@ -112,7 +110,7 @@ With hands-on experience in **Java, Python, JavaScript, React.js, Node.js, Expre
 
 ### 🗄️ Database
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=mongodb"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql"/>
@@ -121,25 +119,25 @@ With hands-on experience in **Java, Python, JavaScript, React.js, Node.js, Expre
 
 ---
 
-### 🤖 AI & Data Analytics
+### 🤖 Artificial Intelligence
 
-<p align="left">
+<p>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-020617?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-1E40AF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0B1120?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-1E3A8A?style=for-the-badge&logo=google&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-3B82F6?style=for-the-badge"/>
 
 </p>
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=git"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=github"/>&nbsp;
