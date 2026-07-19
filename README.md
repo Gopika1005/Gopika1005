@@ -398,3 +398,129 @@ A modern, responsive portfolio website showcasing my projects, technical skills,
 ---
 
 # 📊 GitHub Analytics
+# 📊 GitHub Analytics
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=E2E8F0"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=E2E8F0"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=93C5FD"/>
+
+</div>
+
+<br>
+
+---
+
+# 🏅 GitHub Profile Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Open_Source-Learning-020617?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full_Stack-Developer-0B1120?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Enthusiast-1E3A8A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem-Solver-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Continuous-Learner-3B82F6?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| 🚀 Currently Learning | 💡 Building |
+|-----------------------|-------------|
+| Java Data Structures & Algorithms | AI-powered Applications |
+| React.js | Full Stack Web Projects |
+| Node.js & Express.js | Portfolio Improvements |
+| Database Design | Smart Web Applications |
+| Artificial Intelligence | Open Source Contributions |
+
+</div>
+
+<br>
+
+---
+
+# 📅 2026 Learning Roadmap
+
+<div align="center">
+
+| Quarter | Goal |
+|:--------:|:-----|
+| ✅ Q1 | Strengthen Java Programming & Problem Solving |
+| 🚀 Q2 | Build Advanced Full Stack Projects |
+| 🤖 Q3 | Learn AI Integrations & Cloud Technologies |
+| 💼 Q4 | Crack Software Engineering Internship Interviews |
+
+</div>
+
+---
+
+# 🌟 What Drives Me
+
+<div align="center">
+
+### 💙 Passion for Building Technology
+
+I enjoy transforming ideas into practical software that solves real-world problems and creates meaningful impact.
+
+<br>
+
+### 🤖 Artificial Intelligence
+
+Exploring AI-powered solutions and integrating modern technologies into everyday applications inspires me to keep learning.
+
+<br>
+
+### 🌱 Continuous Learning
+
+Technology evolves every day, and I believe consistent learning is the key to becoming an exceptional Software Engineer.
+
+<br>
+
+### 🚀 Career Vision
+
+My goal is to become a Software Engineer who builds scalable, efficient, and innovative solutions while contributing to impactful products used by millions.
+
+</div>
+
+<br>
+
+---
+
+# 💬 Developer Philosophy
+
+<div align="center">
+
+> **"Code with purpose. Learn with curiosity. Build with passion."**
+
+</div>
+
+---
+
+# 📬 Let's Connect
