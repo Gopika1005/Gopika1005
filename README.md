@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0F172A&text=Gopika%20Raman&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=020617&text=Gopika%20Raman&fontColor=F8FAFC&fontSize=44&fontAlignY=38&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1500&color=2563EB&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Technology+that+Creates+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1500&color=60A5FA&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Technology+that+Creates+Impact"/>
 
 <br><br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-020617?style=for-the-badge"/>
 </a>
 
 <a href="YOUR_LEETCODE_LINK">
@@ -21,7 +21,7 @@
 </a>
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -30,15 +30,17 @@
 
 # 👋 Hi, I'm Gopika Raman
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-I'm a **Computer Science Engineering student** with a strong passion for **Full Stack Development** and **Artificial Intelligence**. I enjoy building scalable web applications, exploring modern technologies, and solving real-world problems through software. My goal is to become a skilled Software Engineer by continuously learning, developing impactful projects, and contributing to innovative technology.
+I'm a **Computer Science Engineering student** passionate about **Full Stack Development** and **Artificial Intelligence**. I enjoy building scalable web applications, exploring modern technologies, and solving real-world problems through software engineering.
+
+Currently, I'm enhancing my skills in **Java, Data Structures & Algorithms, React.js, Node.js, and AI technologies** while developing innovative projects that strengthen my problem-solving and development expertise.
 
 ### 🌱 Currently
 
-- 🚀 Learning **Java Data Structures & Algorithms**
-- ⚛️ Exploring **React.js** and **Node.js**
-- 🤖 Building AI-powered applications with **Google Gemini**
+- 🚀 Mastering **Java DSA**
+- ⚛️ Building projects using **React.js & Node.js**
+- 🤖 Exploring **Artificial Intelligence & Google Gemini**
 - 💼 Preparing for **Software Engineering Internships (2027)**
 
 <br>
@@ -50,28 +52,26 @@ I'm a **Computer Science Engineering student** with a strong passion for **Full 
 <div align="center">
 
 | 🎓 Education | 💼 Experience |
-|--------------|---------------|
+|:------------:|:-------------:|
 | Final Year B.E. Computer Science Engineering | Web Development Intern |
 
 | 📈 CGPA | 📍 Location |
-|----------|------------|
-| **8.79** | Hosur, Tamil Nadu, India |
+|:-------:|:-----------:|
+| **8.79** | Hosur, Tamil Nadu |
 
-| 🚀 Career Goal | ❤️ Interests |
-|----------------|--------------|
-| Software Engineer | Full Stack • AI • Java |
+| 🚀 Goal | ❤️ Interests |
+|:--------:|:------------:|
+| Software Engineer | AI • Full Stack • Java |
 
 </div>
-
-<br>
 
 ---
 
 # ⚡ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=java"/>
 
@@ -87,9 +87,9 @@ I'm a **Computer Science Engineering student** with a strong passion for **Full 
 
 ---
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=html"/>
 
@@ -103,9 +103,9 @@ I'm a **Computer Science Engineering student** with a strong passion for **Full 
 
 ---
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
@@ -119,7 +119,7 @@ I'm a **Computer Science Engineering student** with a strong passion for **Full 
 
 ### 🗄️ Database
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 
@@ -131,21 +131,21 @@ I'm a **Computer Science Engineering student** with a strong passion for **Full 
 
 ### 🤖 Artificial Intelligence
 
-<p align="left">
+<p>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-020617?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1E293B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-2563EB?style=for-the-badge&logo=google&logoColor=white"/>
 
 </p>
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 
@@ -155,7 +155,7 @@ I'm a **Computer Science Engineering student** with a strong passion for **Full 
 
 <img src="https://skillicons.dev/icons?i=figma"/>
 
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
